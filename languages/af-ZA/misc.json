@@ -8,7 +8,7 @@
     "INVALID_TIME": "You must enter a valid time! Available units: `s`, `m`, `h` or `d`",
     "INVALID_NUMBER": "Gee 'n geldige nommer!",
     "INVALID_NUMBER_RANGE": "Gee 'n geldige noomer tussen **{{min}}** en **{{max}}**!",
-    "STATS_FOOTER": "[Dashboard]({{dashboardLink}}) ● [Donate]({{donateLink}}) ● [Invite]({{inviteLink}}) ● [Server]({{supportLink}}) ● [Github]({{githubLink}})",
+    "STATS_FOOTER": "[Dashboard]({{dashboardLink}}) ● [Discord]({{donateLink}}) ● [Invite]({{inviteLink}}) ● [Server]({{supportLink}}) ● [Github]({{githubLink}})",
     "BOT_USER": "Die gebruiker is 'n bot!",
     "NO_REASON_PROVIDED": "Geen rede gegee",
     "NO_USER_FOUND_ID": "Geen gebruiker op Discord het die ID `{{id}}`!",

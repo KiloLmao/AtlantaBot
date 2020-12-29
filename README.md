@@ -70,8 +70,8 @@ You must follow the [installation guide](https://www.atlanta-bot.fr/installation
 *   [Commands List](https://www.atlanta-bot.fr/commands)
 *   [Installation Guide](https://www.atlanta-bot.fr/installation)
 *   [F.A.Q](https://www.atlanta-bot.fr/faq/)
-*   [Discord](https://discord.atlanta-bot.fr)
-*   [Twitter](https://twitter.com/AtlantaBot)
+*   [Discord](https://discord.gg/z9uzcVQDUH)
+*   [Youtube](https://www.youtube.com/channel/UCemWy5I43hh82N2mgLSx1_w)
 *   [Github](https://github.com/Androz2091/AtlantaBot/)
 *   [Dashboard](https://dashboard.atlanta-bot.fr)
 

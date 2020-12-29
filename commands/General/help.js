@@ -121,8 +121,8 @@ class Help extends Command {
 		}
         
 		embed.addField("\u200B", message.translate("misc:STATS_FOOTER", {
-			donateLink: "https://patreon.com/Androz2091",
-			dashboardLink: "https://dashboard.atlanta-bot.fr",
+			discord: "https://discord.gg/z9uzcVQDUH",
+			Youtube: "https://www.youtube.com/channel/UCemWy5I43hh82N2mgLSx1_w",
 			inviteLink: await this.client.generateInvite("ADMINISTRATOR"),
 			githubLink: "https://github.com/Androz2091",
 			supportLink: "https://discord.atlanta-bot.fr"
